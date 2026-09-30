@@ -1,1 +1,13 @@
-
+[
+  {
+    "home": "India",
+    "away": "West Indies",
+    "competition": "ODI",
+    "sport": "Cricket",
+    "status": "LIVE",
+    "time": "2026-09-30T14:00:00+00:00",
+    "homeLogo": "https://flagcdn.com/w80/in.png",
+    "awayLogo": "https://flagcdn.com/w80/bb.png",
+    "streamUrl": "https://your-stream.m3u8"
+  }
+]
